@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Site",
+    "url": "https://strike.financial",
+    "icon": "https://icons.duckduckgo.com/ip3/strike.financial.ico",
+    "slug": "site",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 505,
+    "timeDay": 505,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
+    "dailyMinutesDown": {
+      "2024-08-24": 1
+    }
+  },
+  {
+    "name": "Login",
+    "url": "https://login.strike.financial",
+    "icon": "https://icons.duckduckgo.com/ip3/login.strike.financial.ico",
+    "slug": "login",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 292,
+    "timeDay": 292,
+    "timeWeek": 292,
+    "timeMonth": 292,
+    "timeYear": 292,
+    "dailyMinutesDown": {
+      "2024-08-24": 1
+    }
+  },
+  {
+    "name": "Signup",
+    "url": "https://signup.strike.financial",
+    "icon": "https://icons.duckduckgo.com/ip3/signup.strike.financial.ico",
+    "slug": "signup",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 447,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
+    "dailyMinutesDown": {
+      "2024-08-24": 1
+    }
+  },
+  {
+    "name": "App",
+    "url": "https://app.strike.financial",
+    "icon": "https://icons.duckduckgo.com/ip3/app.strike.financial.ico",
+    "slug": "app",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 51,
+    "timeDay": 51,
+    "timeWeek": 51,
+    "timeMonth": 51,
+    "timeYear": 51,
+    "dailyMinutesDown": {
+      "2024-08-24": 1
+    }
+  }
+]
